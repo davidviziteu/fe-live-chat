@@ -1,0 +1,17 @@
+#chat-area{
+    display: flex;
+    flex-flow: row;
+    margin-top: 30px;
+}
+#chat-area > *{
+    width: 33vw;
+}
+
+#forms-comm-area {
+    margin-top: 30px;
+    display: flex;
+    flex-flow: row;
+}
+#forms-comm-area > *{
+    width: 33vw;
+}
